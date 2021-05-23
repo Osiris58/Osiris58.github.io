@@ -1,0 +1,40 @@
+img {
+  height: 200px;
+}
+input {
+  margin-left: 75px;
+  margin:5px;
+  height: 35px;
+  width: 75% ;
+}
+.forgot {
+  color: blue;
+  font-size: 10px;
+  text-align: left;
+}
+.login{
+  background-color:#458eff;
+  border: none;
+  margin: 10px;
+  position: relative;
+  left: 60px;
+  width:175px;
+  height:25px;
+  border-radius: 5px;
+  color: white;
+}
+.dont {
+  font-size:15px;
+  opacity: 10;
+}
+.sign{
+  
+}
+.register{
+  border: none;
+}
+.fb {
+ height: 100px;
+ width: 200px;
+ margin-left: 20px;
+}
